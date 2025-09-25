@@ -1,7 +1,4 @@
-layout: post
-title: "Unicorn Football."
-date: 2025-08-14
----
+
 I came up with the title of this article on kind of a whim, but I will explain my reasoning behind why I wanted to call this piece “Unicorn Football” down the road.
 
 The majority of my readership has some connection to the game of Football, ranging from casual fans to people working full time for professional clubs. In sporting organizations across all sports and leagues, how teams choose to recruit who plays for them matters. A LOT.
